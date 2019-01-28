@@ -42,3 +42,14 @@ Last week it seems like we didn't save our data properly so we had to retake the
 Then we put the vacuum chamber in front of M2 and used the vacuum pump to pull out the air. Then we collected data for 120 seconds while letting the air back in.
 
 Insert Plots 
+
+
+### Day 3 Jan 21 2019 14:00
+
+### Finding coherence length and frequencies of sodium lamp
+To explore the behaviour of the sodium lamp, we must take a long span of data, in order to observe the coherence length (by fitting the slow decay in amplitude and fitting it) as well as the 2 main frequencies composing this light (by observing the average wavelength and the period of  beats formed due to 2 similar wavelengths composing this beam). To achieve this, one fast span was taken to better position the mirror 1, and another slower data set was taken to obtain quality data that can undergo a fourier transform without generating noise due to insufficient sampling.
+
+Details of tada acquisition:
+mid position: 12.1
+speed: 0.005
+span: +-1
