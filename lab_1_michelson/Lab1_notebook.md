@@ -2,7 +2,9 @@
 ##### Ryan Schmidt - 23407159
 ##### Giulio Sucar Pregnolato - 46117131
 
-## fill with intro stuff later
+## Introduction
+The Michelson interferometer is a tool that splits light beams into two paths of similar distance that can be altered as desired. This tool allows for experimentation with interference patterns, which reveal specrtal information about different light sources (in our case, a HeNe laser, a sodium lamp and a white light). 
+The experiment consists of setting up and tuning the interferometer in order to observe interference patterns, then experimenting with different light sources and collecting data across a span of path length differences. 
 
 ### Day 1
 
@@ -13,11 +15,11 @@ As we adjust the mirror horizontally we see a vertical interference pattern, and
 
 After talking to the professor we realized that we should be using the lens in front of the laser, it spreads the beam out so we can see more of the fringes.
 
+With the smaller fringes, we could change the angle and phase of the frequencies by moving the alignment of both mirrors, as different patterns formed when the light from the two mirrors were not coinciding in the photodetector. 
 
 ### Day 2 Jan 21 2019 14:00
 
 #### Aligning mirrors
-
 We used the technique that the lab tech taught us to align the mirrors:
 - remove the lens from the workbench
 - cover one mirror and align the other by looking at the dots on the beam splitter
